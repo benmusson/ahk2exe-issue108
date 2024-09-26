@@ -1,0 +1,1 @@
+.\.ahk\ahk2exe.exe  /in ".\Main.ahk" /icon ".\images\not_working\favicon_0.ico" /compress 0 /base ".\.ahk\AutoHotkey64.exe" /out ".\NotWorking.exe"
