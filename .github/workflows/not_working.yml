@@ -1,4 +1,4 @@
-name: Build (Working Icon)
+name: Build (Not Working Icon)
 on:
   workflow_dispatch:
     inputs:
